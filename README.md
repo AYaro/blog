@@ -17,3 +17,5 @@ Features for future releases:
  - contextual search
  - dark theme
  - easter eggs
+
+NOTE: this repo is only for the backend of the service, i'm not planning to make the frontend public yet
