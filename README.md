@@ -1,6 +1,6 @@
-# My dev blog
+# Dev blog
 
-Hey! I'm planning do starts my own dev blogging platform, where I and some other IT enthusiasts will bring up some interesting topics and make different tutorials (mostly web dev and ethical hacking). 
+Hey! I'm planning to start my own dev blogging platform, where I and some other IT enthusiasts will bring up some interesting topics and make different tutorials (mostly web dev and ethical hacking). 
 Hopefully, the first release will be up and running by 15th of May.
 Features of first release:
  - multilingual support (English, Russian)
