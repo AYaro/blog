@@ -9,7 +9,7 @@ from django_filters import CharFilter
 from django_filters.rest_framework import BaseInFilter, NumberFilter, UUIDFilter
 from rest_framework import mixins, serializers
 
-from starcourse.stubs import QueryType
+from blog.stubs import QueryType
 
 class MarkAsDeletedMixin(mixins.DestroyModelMixin):
     def perform_destroy(self, instance: 'Type[BaseModel]') -> None:
